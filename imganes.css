@@ -1,0 +1,22 @@
+.imagen-puce {
+    height: auto;
+    display: block; 
+    float: right;
+    
+}
+
+
+.imagen{
+    margin-right: 150px;
+    margin-left: 70px;
+    
+}
+
+
+.imagen-final{
+    width: auto;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+
+}
